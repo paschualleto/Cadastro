@@ -1,0 +1,6 @@
+C:\Users\Juliano\source\repos\Cadastro\Cadastro.Entidade\bin\Debug\Cadastro.Entidade.dll
+C:\Users\Juliano\source\repos\Cadastro\Cadastro.Entidade\bin\Debug\Cadastro.Entidade.pdb
+C:\Users\Juliano\source\repos\Cadastro\Cadastro.Entidade\obj\Debug\Cadastro.Entidade.csprojResolveAssemblyReference.cache
+C:\Users\Juliano\source\repos\Cadastro\Cadastro.Entidade\obj\Debug\Cadastro.Entidade.csproj.CoreCompileInputs.cache
+C:\Users\Juliano\source\repos\Cadastro\Cadastro.Entidade\obj\Debug\Cadastro.Entidade.dll
+C:\Users\Juliano\source\repos\Cadastro\Cadastro.Entidade\obj\Debug\Cadastro.Entidade.pdb
